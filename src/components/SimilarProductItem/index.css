@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.similar-img {
+  height: 150px;
+  border-radius: 10px;
+}
+.similar-title {
+  font-size: 20px;
+  color: #12022f;
+}
+.rating-review-container {
+  display: flex;
+}
+.price {
+  margin-right: 20px;
+}
+.similar-rating-container {
+  background-color: #3b82f6;
+  color: #ffffff;
+  width: 60px;
+  height: 40px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.similar-list-item {
+  list-style-type: none;
+  margin: 20px;
+}
